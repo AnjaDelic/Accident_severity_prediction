@@ -41,6 +41,11 @@ Contatins:
  - Saving stacking model
 
 
+#### SHAP
+Contains:
+  - Different visualisations showing importance of features
+
+
 
 
 
