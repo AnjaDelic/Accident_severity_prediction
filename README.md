@@ -2,7 +2,9 @@
 This project is part of my master thesis.
 
 #### About dataset
-“US-Accidents” dataset on Kaggle, recording over 7.7 million traffic accidents in the United States since 2016. \n
+“US-Accidents” dataset on Kaggle, recording over 7.7 million traffic accidents in the United States since 2016. 
+
+
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/code?datasetId=199387
 
 #### Project structure
